@@ -1,0 +1,2 @@
+# Dice-Game
+This is a game with dice in which the person sitting at the bottom of the machine determines the number of rounds of the game, enters the names of the players, then the program rolls two dice for each round and adds the values as points. The person thinks that the person who wins the round every time he reaches seven points, one round takes a long time for one of the players to bring the number 7. Finally, a winner is introduced as the winner of the whole game.
